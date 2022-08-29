@@ -1,5 +1,5 @@
 Feature: Get users based on task completion
-  Of all users,
+  From all users with tasks,
   I want users that belong to FanCode city,
   I want users who have completed more than 50% of their tasks.
 
